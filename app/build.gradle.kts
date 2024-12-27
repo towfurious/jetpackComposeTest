@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.dogprofilepage"
+    namespace = "com.example.composedemo"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.dogprofilepage"
+        applicationId = "com.example.composedemo"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
