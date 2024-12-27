@@ -1,4 +1,4 @@
-package com.example.dogprofilepage.ui.theme
+package com.example.composeDemo.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

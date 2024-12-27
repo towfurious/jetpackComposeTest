@@ -1,6 +1,5 @@
-package com.example.dogprofilepage.ui.theme
+package com.example.composeDemo.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

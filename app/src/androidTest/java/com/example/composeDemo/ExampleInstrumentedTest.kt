@@ -1,4 +1,4 @@
-package com.example.dogprofilepage
+package com.example.composeDemo
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

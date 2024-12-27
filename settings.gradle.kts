@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "DogProfilePage"
+rootProject.name = "ComposeDemo"
 include(":app")
  

@@ -1,4 +1,4 @@
-package com.example.dogprofilepage
+package com.example.composeDemo
 
 import org.junit.Test
 
