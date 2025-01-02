@@ -4,6 +4,7 @@ import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.requiredHeight
@@ -37,7 +38,7 @@ import kotlinx.coroutines.launch
 fun HomeAppBar(scope: CoroutineScope, drawerState: DrawerState) {
     Box(modifier = Modifier.padding(16.dp)) {
         Card(
-            modifier = Modifier.requiredHeight(50.dp),
+            modifier = Modifier.requiredHeight(60.dp).padding(top = 10.dp),
             shape = RoundedCornerShape(10.dp), elevation = CardDefaults.cardElevation(6.dp)
         ) {
             Row(
