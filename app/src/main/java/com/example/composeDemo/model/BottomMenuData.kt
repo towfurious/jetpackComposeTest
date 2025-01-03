@@ -1,6 +1,7 @@
 package com.example.composeDemo.model
 
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.VideoCall
 import androidx.compose.material.icons.outlined.Mail
 import androidx.compose.ui.graphics.vector.ImageVector
 
@@ -14,7 +15,7 @@ sealed class BottomNavigationItem(
         title = "Mail"
     )
     object Meet : BottomNavigationItem(
-        icon = Icons.Outlined.Mail,
+        icon = Icons.Default.VideoCall,
         title = "Meet"
     )
 }
